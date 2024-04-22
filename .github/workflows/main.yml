@@ -7,4 +7,4 @@ jobs:
       - name: Checkout Repo
         uses: actions/checkout@v3
       - name: Rub Feed Generator
-        uses: kevinndungu-source/Podcast-Generator@main
+        uses: kevinndungu-source/podcast-generator@main
